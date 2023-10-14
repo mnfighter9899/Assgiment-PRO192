@@ -4,8 +4,11 @@ public class Car {
     String color;
     String frameID;
     String engineID;
-    String carID;
+   String carID;
+    
+    String hếLoo;
 
+    
     public Car() {
     }
 
