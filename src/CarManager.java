@@ -126,6 +126,8 @@ public class CarManager {
                 case 11:
                     carList.saveToFile("cars.txt");
                     break;
+                default
+                    break;
             }
         } while (choice > 0 && choice <= ops.size());
     }
